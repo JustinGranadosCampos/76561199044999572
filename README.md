@@ -1,6 +1,6 @@
 # Cómo instalar
 
-Clonar el repositorio luego copiar el contenido clonado (carpeta) a la ruta
+Clonar o descargar el repositorio luego copiar el contenido clonado (carpetas) a la ruta
 
 `%USERPROFILE%\AppData\LocalLow\SKS\TheForest`
 
